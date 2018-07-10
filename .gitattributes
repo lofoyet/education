@@ -1,4 +1,5 @@
 1 filter=git-crypt diff=git-crypt
 losing_war filter=git-crypt diff=git-crypt
 n filter=git-crypt diff=git-crypt
+t filter=git-crypt diff=git-crypt
 
