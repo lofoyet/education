@@ -28,3 +28,4 @@ if __name__ == '__main__':
     train, dev = sentiment_rnn_data.generate_train_test(
         opts.data_path, opts.nlabels, opts.split_ratio)
     main(opts, train, dev)
+    # some comments
